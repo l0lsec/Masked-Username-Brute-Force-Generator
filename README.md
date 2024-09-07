@@ -23,8 +23,8 @@ This script combines the power of Python’s `itertools` to generate all possibl
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/username-brute-force-generator.git
-    cd username-brute-force-generator
+    git clone https://github.com/l0lsec/Masked-Username-Brute-Force-Generator.git
+    cd Masked-Username-Brute-Force-Generator
     ```
 
 2. **Install Dependencies:**
