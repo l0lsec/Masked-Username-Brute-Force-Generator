@@ -6,6 +6,9 @@ The **Username Brute Force Generator** is a Python script that generates potenti
 
 This script combines the power of Python’s `itertools` to generate all possible combinations of usernames, with a focus on templates where only certain characters are known (such as the first and last character), while the middle is replaced by combinations of lowercase letters and digits.
 
+Created by Sedric "Show Up Show Out" Louissaint, this tool simplifies the process of brute forcing masked email identifiers while performing security audits and penetration testing on web applications.
+
+
 ## Key Features
 
 - **Generate Custom Usernames**: Provide a template like `j******n`, and the script will brute-force all possible combinations for the masked part.
@@ -98,3 +101,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, feel free to reach out. Links in bio.
+
+## Credits
+
+Created by **Sedric "Show Up Show Out" Louissaint**. Special thanks to everyone contributing to the security community and making web applications more secure through proper testing and automation.
+
